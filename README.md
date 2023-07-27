@@ -8,7 +8,7 @@ Este es un ejemplo de un aula virtual hecho con HTML y CSS.
 * [Portafolio Web]
 
 ## Ver ejemplo en vivo 🔭
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [https://efrenhdez.github.io/aula-virtual/] (https://efrenhdez.github.io/aula-virtual/)
 
 ## Contratación 📫
 Si quieres contratarme puedes escribirme a efrenhdezcantoral@gmail.com para consultas.
